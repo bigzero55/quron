@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "qur-an",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
