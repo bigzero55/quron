@@ -14,6 +14,9 @@
     <Route path="surah">
       <Surat />
     </Route>
+Route path="surah">
+      <Surat />
+    </Route>
   </Router>
 </MaterialApp>
 
